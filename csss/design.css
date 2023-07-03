@@ -1,0 +1,47 @@
+.dropdown-item, .btn, .intro-title, .my-projects, .logo-container, .footer-container{
+    font-family: Courier;
+}
+.navbar-section{
+    margin: 1rem 0rem;
+    justify-content: center;
+}
+.each-section{
+    margin: 2rem 0rem;
+}
+.intro-section{
+    margin: 3rem 0rem;
+}
+.intro-paragraph{
+    margin: 0rem 2rem;
+    font-family: Courier;
+}
+.marketing{
+    text-align: center;
+}
+.my-projects{
+    margin: 3rem 0rem;
+}
+.carousel-item{
+    height: 450px;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+}
+.item1{
+    background-image: url(../images/image1.jpeg);
+}
+.item2{
+    background-image: url(../images/image2.JPG);
+}
+.item3{
+    background-image: url(../images/image3.jpeg);
+}
+.item4{
+    background-image: url(../images/image4.jpeg);
+}
+.item5{
+    background-image: url(../images/image5.jpeg);
+}
+.item6{
+    background-image: url(../images/image6.JPG);
+}
